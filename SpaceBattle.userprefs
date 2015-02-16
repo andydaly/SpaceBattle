@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PathFollow.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Earth.cs" Line="16" Column="3" />
+      <File FileName="Assets\Scripts\SpaceShip.cs" Line="15" Column="62" />
+      <File FileName="Assets\Scripts\PathFollow.cs" Line="8" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,97 @@
+# File produced by 
+
+newmtl ClassicUf1
+  Ns 51.8
+  d 1.0
+  illum 2
+  Kd 0.698 0.698 0.698
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl ClassicUf2
+  Ns 51.8
+  d 1.0
+  illum 2
+  Kd 0.698 0.698 0.698
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl ClassicUfo
+  Ns 32.75
+  d 1.0
+  illum 2
+  Kd 0.9294 0.2157 0.0745
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauc1
+  Ns 32.75
+  d 1.0
+  illum 2
+  Kd 0.9294 0.2157 0.0745
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauc1_1
+  Ns 51.8
+  d 1.0
+  illum 2
+  Kd 0.698 0.698 0.698
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauc2
+  Ns 32.75
+  d 1.0
+  illum 2
+  Kd 0.9294 0.2157 0.0745
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauce
+  Ns 51.8
+  d 1.0
+  illum 2
+  Kd 0.698 0.698 0.698
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauce_1
+  Ns 32.75
+  d 1.0
+  illum 2
+  Kd 0.1922 0.1922 0.1922
+  Ka 0.0902 0.0627 0.302
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauce_2
+  Ns 32.75
+  d 1.0
+  illum 2
+  Kd 0.1922 0.1922 0.1922
+  Ka 0.0902 0.0627 0.302
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauce_3
+  Ns 32.75
+  d 1.0
+  illum 2
+  Kd 0.9294 0.2157 0.0745
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauce_4
+  Ns 32.75
+  d 1.0
+  illum 2
+  Kd 0.9294 0.2157 0.0745
+  Ka 0.098 0.098 0.098
+  Ks 0.898 0.898 0.898
+
+newmtl vree_sauce_5
+  Ns 32.75
+  d 1.0
+  illum 2
+  Kd 0.1922 0.1922 0.1922
+  Ka 0.0902 0.0627 0.302
+  Ks 0.898 0.898 0.898
