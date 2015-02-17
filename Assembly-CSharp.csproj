@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\PathFollow.cs" />
      <Compile Include="Assets\Scripts\SpaceShip.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\low-poly asteroids\1. Terms of Use.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
