@@ -1,10 +1,34 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PathFollow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpaceStation.cs">
     <Files>
-      <File FileName="Assets\Scripts\Earth.cs" Line="16" Column="3" />
-      <File FileName="Assets\Scripts\SpaceShip.cs" Line="15" Column="62" />
-      <File FileName="Assets\Scripts\PathFollow.cs" Line="8" Column="24" />
+      <File FileName="Assets\Scripts\AlienShipBehaviour.cs" Line="20" Column="58" />
+      <File FileName="Assets\Scripts\HarrierBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AttackState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BattleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AsteroidSpin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AttackFromDistance.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Boid.cs" Line="162" Column="1" />
+      <File FileName="Assets\Scripts\BoidManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraManager2.cs" Line="101" Column="1" />
+      <File FileName="Assets\Scripts\Earth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EarthExplodes.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Formation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LaserShot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Obstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Path.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PathFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PathSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RocketShot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpaceShip.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpaceStation.cs" Line="31" Column="58" />
+      <File FileName="Assets\Scripts\SpawnRockets.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sphere.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StationSight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TargetUpdater.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyEarth.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

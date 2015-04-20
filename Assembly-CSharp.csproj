@@ -46,11 +46,45 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\AlienShipBehaviour.cs" />
+     <Compile Include="Assets\Scripts\AsteroidSpin.cs" />
+     <Compile Include="Assets\Scripts\AttackFromDistance.cs" />
+     <Compile Include="Assets\Scripts\AttackState.cs" />
+     <Compile Include="Assets\Scripts\BattleManager.cs" />
+     <Compile Include="Assets\Scripts\Boid.cs" />
+     <Compile Include="Assets\Scripts\BoidManager.cs" />
+     <Compile Include="Assets\Scripts\CameraManager.cs" />
+     <Compile Include="Assets\Scripts\CameraManager2.cs" />
+     <Compile Include="Assets\Scripts\DestroyEarth.cs" />
      <Compile Include="Assets\Scripts\Earth.cs" />
+     <Compile Include="Assets\Scripts\EarthExplodes.cs" />
+     <Compile Include="Assets\Scripts\Formation.cs" />
+     <Compile Include="Assets\Scripts\HarrierBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Health.cs" />
+     <Compile Include="Assets\Scripts\LaserShot.cs" />
+     <Compile Include="Assets\Scripts\LineDrawer.cs" />
+     <Compile Include="Assets\Scripts\Obstacle.cs" />
+     <Compile Include="Assets\Scripts\Path.cs" />
      <Compile Include="Assets\Scripts\PathFollow.cs" />
+     <Compile Include="Assets\Scripts\PathSetup.cs" />
+     <Compile Include="Assets\Scripts\RocketShot.cs" />
      <Compile Include="Assets\Scripts\SpaceShip.cs" />
+     <Compile Include="Assets\Scripts\SpaceStation.cs" />
+     <Compile Include="Assets\Scripts\SpawnRockets.cs" />
+     <Compile Include="Assets\Scripts\Sphere.cs" />
+     <Compile Include="Assets\Scripts\StationSight.cs" />
+     <Compile Include="Assets\Scripts\TargetUpdater.cs" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\SpaceStation\1. Terms of Use.txt" />
      <None Include="Assets\low-poly asteroids\1. Terms of Use.txt" />
+ <Reference Include="Vectrosity">
+ <HintPath>D:/WorkStuff/SpaceBattle/Assets/Plugins/Vectrosity.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{D3F2B1F5-F2A9-C7F5-79A1-A8F889123F7B}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

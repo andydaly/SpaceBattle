@@ -4,6 +4,13 @@ Game Engines 2 Assignment 1
 ## Space Battle Introduction Video
 [![Video](http://img.youtube.com/vi/lYbcyhHU4ig/0.jpg)](https://www.youtube.com/watch?v=lYbcyhHU4ig)
 
+
+
+## Space Battle Complete Video
+[![Video](http://img.youtube.com/vi/lFP04pNZHUk/0.jpg)](https://www.youtube.com/watch?v=lFP04pNZHUk)
+
+
+
 ## Storyboard
 **Scene 1**
 
