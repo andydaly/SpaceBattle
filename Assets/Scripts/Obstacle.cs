@@ -23,7 +23,7 @@ public class Obstacle : MonoBehaviour
 	{
 		if (drawGizmos)
 		{
-			LineDrawer.DrawSphere(transform.position, radius, 20, color);
+			//LineDrawer.DrawSphere(transform.position, radius, 20, color);
 		}
 	}
 }

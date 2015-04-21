@@ -8,8 +8,7 @@ public class CameraManager : MonoBehaviour {
 	public Camera camera3;
 	public Camera camera4;
 	public Camera camera5;
-	//public Camera camera6;
-	//public Camera camera7;
+
 
 	float Timer = 0.0f;
 

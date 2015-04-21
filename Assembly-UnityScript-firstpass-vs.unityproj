@@ -51,9 +51,6 @@
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\SpaceStation\1. Terms of Use.txt" />
      <None Include="Assets\low-poly asteroids\1. Terms of Use.txt" />
- <Reference Include="Vectrosity">
- <HintPath>D:/WorkStuff/SpaceBattle/Assets/Plugins/Vectrosity.dll</HintPath>
- </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

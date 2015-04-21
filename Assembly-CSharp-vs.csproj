@@ -58,11 +58,11 @@
      <Compile Include="Assets\Scripts\DestroyEarth.cs" />
      <Compile Include="Assets\Scripts\Earth.cs" />
      <Compile Include="Assets\Scripts\EarthExplodes.cs" />
+     <Compile Include="Assets\Scripts\ExitButton.cs" />
      <Compile Include="Assets\Scripts\Formation.cs" />
      <Compile Include="Assets\Scripts\HarrierBehaviour.cs" />
      <Compile Include="Assets\Scripts\Health.cs" />
      <Compile Include="Assets\Scripts\LaserShot.cs" />
-     <Compile Include="Assets\Scripts\LineDrawer.cs" />
      <Compile Include="Assets\Scripts\Obstacle.cs" />
      <Compile Include="Assets\Scripts\Path.cs" />
      <Compile Include="Assets\Scripts\PathFollow.cs" />
@@ -80,9 +80,6 @@
      <None Include="Assets\low-poly asteroids\1. Terms of Use.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>D:/WorkStuff/SpaceBattle/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
- </Reference>
- <Reference Include="Vectrosity">
- <HintPath>D:/WorkStuff/SpaceBattle/Assets/Plugins/Vectrosity.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
